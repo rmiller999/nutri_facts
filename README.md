@@ -1,3 +1,5 @@
 # nutri_facts
 collaboration project
-team members - Reid
+Team Members: - Pinyi Yang
+              - Reid
+
