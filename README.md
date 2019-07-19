@@ -1,3 +1,6 @@
 # nutri_facts
 collaboration project
-team  members -Joseph
+Team Members: - Pinyi Yang
+              - Reid
+              - Joseph
+
