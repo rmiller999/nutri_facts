@@ -1,3 +1,8 @@
 # nutri_facts
 collaboration project
-team members - River
+Team Members: - Pinyi Yang
+              - Reid
+              - Joseph
+              - River
+
+
